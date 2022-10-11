@@ -1,1 +1,1 @@
-Games created during the course "C# Unity Game Developer 2D" by GameDev.tv Team, Rick Davidson, Gary Pettie.
+Jogos criados durante o curso "C# Unity Game Developer 2D" de GameDev.tv Team, Rick Davidson, Gary Pettie.
