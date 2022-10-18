@@ -14,7 +14,6 @@ public class Delivery : MonoBehaviour
        if(other.tag == "Package")
             Debug.Log("peguei a encomenda!");
        
-
        else if(other.tag == "Customer")
             Debug.Log("entreguei a encomenda");
     }
